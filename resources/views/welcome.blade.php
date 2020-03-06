@@ -185,8 +185,8 @@
         </div>
         <div class="col-sm-4">
           <div class="team-member">
-            <a style="color:#bd5d38 !important;" href="{{ route('saul') }}">
-                <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="">
+            <a style="color:#bd5d38 !important;" href="{{ route('camarena') }}">
+                <img class="mx-auto rounded-circle" src="img/team/camarena.jpg" alt="">
                 <h4>Oscar Camarena</h4>
             </a>
           </div>
@@ -194,7 +194,7 @@
         <div class="col-sm-4">
           <div class="team-member">
             <a style="color:#bd5d38 !important;" href="{{ route('saul') }}">
-                <img class="mx-auto rounded-circle" src="img/team/saul2.jpg" alt="">
+                <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt="">
                 <h4>Saúl Laínez</h4>
             </a>
           </div>
